@@ -1,6 +1,6 @@
 # Tetris
 
-A terminal-based Tetris game written in Python — inspired by the classic puzzle game we all love. 
+A terminal-based Tetris game written in Python, inspired by the classic puzzle game we all love. 
 Blocks fall, you rotate and move them, and try to clear as many lines as you can!
 
 ## Features
